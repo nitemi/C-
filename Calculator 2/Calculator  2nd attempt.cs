@@ -43,7 +43,7 @@ namespace Calculator
             {
                 Console.WriteLine($"Your result: {num1} / {num2} = " + (num1 / num2));
             }
-            else //execute if none of thhe conditions holds
+            else //execute if none of this conditions hold
 
             {
                 Console.WriteLine("invalid input");

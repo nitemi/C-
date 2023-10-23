@@ -10,7 +10,7 @@ namespace Operator
      Design a program that coverts temperature etween farenheit and celsius*/
     public class Tconverter
     {
-        public void TempConvert()
+        public void TempConvert() //method
         {
             Console.WriteLine("enter value ");
             double value = Convert.ToDouble(Console.ReadLine());

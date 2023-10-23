@@ -13,10 +13,10 @@ namespace Game
          and the player has to gues it within a certain number of attempts*/
     public class Guessin_game
     {
-        public void Guess()
+        public void Guess()// method
         {
-            int[] guess;
-            int count = 1;
+            int[] guess;//field
+            int count = 1;//field
             while (true) // used because continue and break statement in an if statement inside the while loop 
             {
 

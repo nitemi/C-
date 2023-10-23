@@ -29,6 +29,7 @@ namespace calculator
 
             switch (response)
             {
+                //$ use for interpolation alongside with curly braces {}
                 case "a":
                     Console.WriteLine($"Your result: {num1} + {num2} = " + (num1 + num2));
                     break;
